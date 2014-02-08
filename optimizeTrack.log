@@ -1,0 +1,206 @@
+2014-02-08 19:21:18,262	INFO	grails.plugin.webxml.WebxmlGrailsPlugin:?	Loading default config file: class DefaultWebXmlConfig
+2014-02-08 19:21:18,356	WARN	grails.plugin.webxml.WebxmlGrailsPlugin:?	Did not find application config file: WebXmlConfig
+2014-02-08 19:21:19,515	INFO	grails.plugin.webxml.WebxmlGrailsPlugin:?	Loading default config file: class DefaultWebXmlConfig
+2014-02-08 19:21:19,522	WARN	grails.plugin.webxml.WebxmlGrailsPlugin:?	Did not find application config file: WebXmlConfig
+2014-02-08 19:32:36,784	INFO	grails.plugin.webxml.WebxmlGrailsPlugin:?	Loading default config file: class DefaultWebXmlConfig
+2014-02-08 19:32:36,844	WARN	grails.plugin.webxml.WebxmlGrailsPlugin:?	Did not find application config file: WebXmlConfig
+2014-02-08 19:32:37,164	INFO	grails.plugin.webxml.WebxmlGrailsPlugin:?	Loading default config file: class DefaultWebXmlConfig
+2014-02-08 19:32:37,174	WARN	grails.plugin.webxml.WebxmlGrailsPlugin:?	Did not find application config file: WebXmlConfig
+2014-02-08 19:32:39,870	INFO	org.apache.coyote.http11.Http11Protocol:384	Initializing ProtocolHandler ["http-bio-8090"]
+2014-02-08 19:32:40,026	INFO	org.apache.catalina.core.StandardService:437	Starting service Tomcat
+2014-02-08 19:32:40,028	INFO	org.apache.catalina.core.StandardEngine:299	Starting Servlet Engine: Apache Tomcat/7.0.27
+2014-02-08 19:32:40,481	INFO	org.apache.catalina.startup.ContextConfig:1424	No global web.xml found
+2014-02-08 19:32:41,635	INFO	org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/Optimize]:711	Initializing Spring root WebApplicationContext
+2014-02-08 19:32:47,012	INFO	grails.plugin.cache.CacheBeanPostProcessor:38	postProcessBeanDefinitionRegistry start
+2014-02-08 19:32:47,013	INFO	grails.plugin.cache.CacheBeanPostProcessor:92	postProcessBeanFactory
+2014-02-08 19:32:48,623	WARN	net.sf.ehcache.config.ConfigurationFactory:134	No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/mindstix/.grails/ivy-cache/net.sf.ehcache/ehcache-core/jars/ehcache-core-2.4.6.jar!/ehcache-failsafe.xml
+2014-02-08 19:32:51,046	INFO	org.codehaus.groovy.grails.scaffolding.DefaultGrailsTemplateGenerator:152	Scaffolding template generator set to use resource loader org.codehaus.groovy.grails.commons.spring.GrailsWebApplicationContext@1aeda93: startup date [Sat Feb 08 19:32:46 IST 2014]; parent: Root WebApplicationContext
+2014-02-08 19:32:53,113	INFO	org.grails.plugin.resource.ResourceProcessor:152	Performing a full reload
+2014-02-08 19:32:53,494	INFO	org.grails.plugin.resource.ResourceProcessor:152	Loading resource declarations...
+2014-02-08 19:32:53,495	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known modules...
+2014-02-08 19:32:53,498	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known resources...
+2014-02-08 19:32:53,912	WARN	org.grails.plugin.resource.module.ModuleDeclarationsFactory:?	'grails.resources.modules' in config does not define any modules
+2014-02-08 19:32:55,942	WARN	grails.util.GrailsUtil:176	[DEPRECATED] Method ConfigurationHolder.getConfig() is deprecated and will be removed in a future version of Grails.
+2014-02-08 19:32:55,956	WARN	grails.util.GrailsUtil:176	[DEPRECATED] Method ApplicationHolder.getApplication() is deprecated and will be removed in a future version of Grails.
+2014-02-08 19:32:55,979	WARN	grails.util.GrailsUtil:176	[DEPRECATED] Method ApplicationHolder.getApplication() is deprecated and will be removed in a future version of Grails.
+2014-02-08 19:32:57,120	INFO	grails.plugin.databasemigration.MigrationRunner:?	updateOnStart disabled; not running migrations
+2014-02-08 19:32:57,390	INFO	org.codehaus.groovy.grails.web.context.GrailsConfigUtils:152	[GrailsContextLoader] Grails application loaded.
+2014-02-08 19:32:57,822	INFO	org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/Optimize]:711	Initializing Spring FrameworkServlet 'grails'
+2014-02-08 19:32:58,138	INFO	org.apache.coyote.http11.Http11Protocol:429	Starting ProtocolHandler ["http-bio-8090"]
+2014-02-08 19:34:39,224	INFO	grails.app.filters.com.team.aspi.optimize.filters.SecurityFilters:152	FIlter......null
+2014-02-08 19:34:39,966	INFO	grails.app.services.com.team.aspi.optimize.core.services.TaskUtilService:152	 todaysTasksList : [["teamaspi", "Vikasnaage Kiwale pune", 18.6631901, 73.71741850000001], ["Mindit", "Mumbai", 19.0759837, 72.87765590000004], ["Zhinda", "Nigdi Pune", 18.6700628, 73.73160419999999], ["Chaitanya D", "Vikasnagar Dehu road pune", 18.6700628, 73.73160419999999]]
+2014-02-08 19:34:40,155	INFO	org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/Optimize]:711	Initializing Spring FrameworkServlet 'gsp'
+2014-02-08 19:34:40,156	INFO	org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/Optimize]:711	GSP servlet initialized
+2014-02-08 19:34:42,335	ERROR	org.grails.plugin.resource.ResourceMeta:?	While processing /css/bootstrap.css, a resource was required but not found: /fonts/glyphicons-halflings-regular.eot
+2014-02-08 19:34:42,350	WARN	org.grails.plugin.resource.util.ResourceMetaStore:176	Cannot locate resource [/fonts/glyphicons-halflings-regular.eot]
+2014-02-08 19:34:42,352	WARN	org.grails.plugin.resource.mapper.cssrewriter:?	Cannot resolve CSS resource, leaving link as is: resource:/fonts/glyphicons-halflings-regular.eot
+2014-02-08 19:34:42,355	ERROR	org.grails.plugin.resource.ResourceMeta:?	While processing /css/bootstrap.css, a resource was required but not found: /fonts/glyphicons-halflings-regular.eot
+2014-02-08 19:34:42,358	WARN	org.grails.plugin.resource.util.ResourceMetaStore:176	Cannot locate resource [/fonts/glyphicons-halflings-regular.eot]
+2014-02-08 19:34:42,359	WARN	org.grails.plugin.resource.mapper.cssrewriter:?	Cannot resolve CSS resource, leaving link as is: resource:/fonts/glyphicons-halflings-regular.eot?#iefix
+2014-02-08 19:34:42,362	ERROR	org.grails.plugin.resource.ResourceMeta:?	While processing /css/bootstrap.css, a resource was required but not found: /fonts/glyphicons-halflings-regular.woff
+2014-02-08 19:34:42,365	WARN	org.grails.plugin.resource.util.ResourceMetaStore:176	Cannot locate resource [/fonts/glyphicons-halflings-regular.woff]
+2014-02-08 19:34:42,366	WARN	org.grails.plugin.resource.mapper.cssrewriter:?	Cannot resolve CSS resource, leaving link as is: resource:/fonts/glyphicons-halflings-regular.woff
+2014-02-08 19:34:42,369	ERROR	org.grails.plugin.resource.ResourceMeta:?	While processing /css/bootstrap.css, a resource was required but not found: /fonts/glyphicons-halflings-regular.ttf
+2014-02-08 19:34:42,371	WARN	org.grails.plugin.resource.util.ResourceMetaStore:176	Cannot locate resource [/fonts/glyphicons-halflings-regular.ttf]
+2014-02-08 19:34:42,373	WARN	org.grails.plugin.resource.mapper.cssrewriter:?	Cannot resolve CSS resource, leaving link as is: resource:/fonts/glyphicons-halflings-regular.ttf
+2014-02-08 19:34:42,376	ERROR	org.grails.plugin.resource.ResourceMeta:?	While processing /css/bootstrap.css, a resource was required but not found: /fonts/glyphicons-halflings-regular.svg
+2014-02-08 19:34:42,378	WARN	org.grails.plugin.resource.util.ResourceMetaStore:176	Cannot locate resource [/fonts/glyphicons-halflings-regular.svg]
+2014-02-08 19:34:42,379	WARN	org.grails.plugin.resource.mapper.cssrewriter:?	Cannot resolve CSS resource, leaving link as is: resource:/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular
+2014-02-08 19:34:48,725	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 params.userType : MANAGER
+2014-02-08 19:34:48,785	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 systemUser : null
+2014-02-08 19:34:54,355	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 params.userType : MANAGER
+2014-02-08 19:34:54,362	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 systemUser : com.team.aspi.optimize.core.Manager : 1
+2014-02-08 19:38:38,157	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 19:38:38,222	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@81da85. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@81da85
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 19:39:21,039	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 19:39:21,053	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@174373b. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@174373b
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 19:39:23,243	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 19:39:23,280	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@e6d0d4. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@e6d0d4
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 19:39:29,147	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 19:39:29,158	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@12fa8ff. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@12fa8ff
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 19:39:33,327	INFO	grails.app.services.com.team.aspi.optimize.core.services.TaskUtilService:152	 todaysTasksList : [["teamaspi", "Vikasnaage Kiwale pune", 18.6631901, 73.71741850000001], ["Mindit", "Mumbai", 19.0759837, 72.87765590000004], ["Zhinda", "Nigdi Pune", 18.6700628, 73.73160419999999], ["Chaitanya D", "Vikasnagar Dehu road pune", 18.6700628, 73.73160419999999]]
+2014-02-08 19:39:45,642	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 19:39:45,653	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@1532868. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@1532868
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 19:39:48,249	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 19:39:48,260	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@4a4df2. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@4a4df2
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 19:42:24,712	INFO	grails.app.controllers.com.team.aspi.optimize.core.ReportController:152	 params.toDate : null
+2014-02-08 19:42:24,820	INFO	grails.app.controllers.com.team.aspi.optimize.core.ReportController:152	 startDate : Fri Feb 07 23:59:59 IST 2014 endDate : Sat Feb 08 23:59:59 IST 2014
+2014-02-08 19:42:24,866	INFO	grails.app.controllers.com.team.aspi.optimize.core.ReportController:152	 fromDate : Sat Feb 08 00:00:00 IST 2014
+2014-02-08 19:42:24,868	INFO	grails.app.controllers.com.team.aspi.optimize.core.ReportController:152	 reportData : [totalTasksToday:4, totalCompletedTasksToday:2, pendingTasksToday:2, totalFieldOperators:2, totalSupervisors:2]
+2014-02-08 19:44:00,012	INFO	grails.app.services.com.team.aspi.optimize.core.services.TaskUtilService:152	 todaysTasksList : [["TEAMaspi", "Vikasnaage Kiwale pune", 18.6631901, 73.71741850000001], ["Mindit", "Mumbai", 19.0759837, 72.87765590000004], ["Xspace", "Nigdi Pune", 18.6700628, 73.73160419999999], ["Innova", "Vikasnagar Dehu road pune", 18.6700628, 73.73160419999999]]
+2014-02-08 19:44:41,005	INFO	grails.app.services.com.team.aspi.optimize.core.services.TaskUtilService:152	 todaysTasksList : [["TEAMaspi", "Vikasnaage Kiwale pune", 18.6631901, 73.71741850000001], ["Mindit", "Mumbai", 19.0759837, 72.87765590000004], ["Xspace", "Nigdi Pune", 18.6700628, 73.73160419999999], ["Innova", "Vikasnagar Dehu road pune", 18.6700628, 73.73160419999999]]
+2014-02-08 19:46:31,336	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 19:46:31,346	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@ef6b34. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@ef6b34
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 19:49:21,981	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 params.userType : SUPERVISOR
+2014-02-08 19:49:21,988	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 systemUser : com.team.aspi.optimize.core.Supervisor : 1
+2014-02-08 19:49:22,209	INFO	grails.app.controllers.com.team.aspi.optimize.core.SupervisorController:152	 profileData : [totalTasksToday:4, totalCompletedTasksToday:2, pendingTasksToday:2, totalFieldOperators:2]
+2014-02-08 19:49:28,563	INFO	grails.app.controllers.com.team.aspi.optimize.core.SupervisorController:152	 profileData : [totalTasksToday:4, totalCompletedTasksToday:2, pendingTasksToday:2, totalFieldOperators:2]
+2014-02-08 19:59:46,449	INFO	grails.app.controllers.com.team.aspi.optimize.core.SupervisorController:152	 profileData : [totalTasksToday:4, totalCompletedTasksToday:2, pendingTasksToday:2, totalFieldOperators:2]
+2014-02-08 20:00:02,363	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 params.userType : MANAGER
+2014-02-08 20:00:02,395	INFO	grails.app.controllers.com.team.aspi.optimize.core.LoginController:152	 systemUser : com.team.aspi.optimize.core.Manager : 1
+2014-02-08 20:01:46,952	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 20:01:46,975	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@1b10a22. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@1b10a22
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 20:02:20,424	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 20:02:20,442	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@277935. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@277935
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 20:02:26,881	INFO	grails.app.services.com.team.aspi.optimize.core.services.TaskUtilService:152	 todaysTasksList : [["TEAMaspi", "Vikasnaage Kiwale pune", 18.6631901, 73.71741850000001], ["Mindit", "Mumbai", 19.0759837, 72.87765590000004], ["Xspace", "Nigdi Pune", 18.6700628, 73.73160419999999], ["Innova", "Vikasnagar Dehu road pune", 18.6700628, 73.73160419999999]]
+2014-02-08 20:02:40,692	ERROR	org.hibernate.property.BasicPropertyAccessor:194	IllegalArgumentException in class: com.team.aspi.optimize.core.Supervisor, getter method of property: id
+2014-02-08 20:02:40,704	ERROR	org.codehaus.groovy.grails.web.errors.GrailsExceptionResolver:213	IllegalArgumentException occurred when processing request: [GET] /Optimize/supervisor/profile/1
+java.lang.ClassCastException@1ae7b48. Stacktrace follows:
+java.lang.IllegalArgumentException: java.lang.ClassCastException@1ae7b48
+	at grails.orm.HibernateCriteriaBuilder.invokeMethod(HibernateCriteriaBuilder.java:1531)
+	at com.team.aspi.optimize.core.SupervisorController.getSupervisorProfileData(SupervisorController.groovy:124)
+	at com.team.aspi.optimize.core.SupervisorController.profile(SupervisorController.groovy:52)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1110)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:603)
+	at java.lang.Thread.run(Thread.java:722)
+2014-02-08 20:05:20,710	INFO	org.codehaus.groovy.grails.compiler.GrailsProjectWatcher:152	File [D:\Grails Apps\Optimize\grails-app\controllers\com\team\aspi\optimize\core\SupervisorController.groovy] changed. Applying changes to application.
+2014-02-08 20:50:33,593	INFO	org.codehaus.groovy.grails.compiler.GrailsProjectWatcher:152	File [D:\Grails Apps\Optimize\grails-app\conf\DataSource.groovy] changed. Applying changes to application.
+2014-02-08 20:50:36,468	INFO	org.grails.plugin.resource.ResourceProcessor:152	Performing a module definition reload
+2014-02-08 20:50:36,494	INFO	org.grails.plugin.resource.ResourceProcessor:152	Loading resource declarations...
+2014-02-08 20:50:36,506	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known modules...
+2014-02-08 20:50:36,530	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known resources...
+2014-02-08 20:50:36,827	WARN	org.grails.plugin.resource.module.ModuleDeclarationsFactory:?	'grails.resources.modules' in config does not define any modules
+2014-02-08 20:50:40,759	INFO	org.codehaus.groovy.grails.compiler.GrailsProjectWatcher:152	File [D:\Grails Apps\Optimize\grails-app\conf\DataSource.groovy] changed. Applying changes to application.
+2014-02-08 20:50:42,529	INFO	org.grails.plugin.resource.ResourceProcessor:152	Performing a module definition reload
+2014-02-08 20:50:42,530	INFO	org.grails.plugin.resource.ResourceProcessor:152	Loading resource declarations...
+2014-02-08 20:50:42,531	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known modules...
+2014-02-08 20:50:42,531	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known resources...
+2014-02-08 20:50:42,538	WARN	org.grails.plugin.resource.module.ModuleDeclarationsFactory:?	'grails.resources.modules' in config does not define any modules
+2014-02-08 20:51:06,863	INFO	org.codehaus.groovy.grails.compiler.GrailsProjectWatcher:152	File [D:\Grails Apps\Optimize\grails-app\conf\DataSource.groovy] changed. Applying changes to application.
+2014-02-08 20:51:08,199	INFO	org.grails.plugin.resource.ResourceProcessor:152	Performing a module definition reload
+2014-02-08 20:51:08,200	INFO	org.grails.plugin.resource.ResourceProcessor:152	Loading resource declarations...
+2014-02-08 20:51:08,201	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known modules...
+2014-02-08 20:51:08,202	INFO	org.grails.plugin.resource.ResourceProcessor:152	Forgetting all known resources...
+2014-02-08 20:51:08,212	WARN	org.grails.plugin.resource.module.ModuleDeclarationsFactory:?	'grails.resources.modules' in config does not define any modules

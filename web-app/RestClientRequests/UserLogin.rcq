@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="2.5"><request><http-version>1.1</http-version><http-follow-redirects>true</http-follow-redirects><URL>http://localhost:8080/Optimize/rest/user/login</URL><method>POST</method><ssl-hostname-verifier>STRICT</ssl-hostname-verifier><headers><header key="" value=""/></headers><body content-type="application/json" charset="UTF-8">{&#x0D;
+	"header": {&#x0D;
+	&#x0D;
+	},&#x0D;
+	&#x0D;
+	"payload": {   &#x0D;
+                "username": "root",&#x0D;
+                "password" : "3Hbp8MAAbo+RngxRXGbbujmC94U="&#x0D;
+                }&#x0D;
+}&#x0D;
+</body></request></rest-client>

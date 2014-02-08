@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="2.5"><request><http-version>1.1</http-version><http-follow-redirects>true</http-follow-redirects><URL>http://localhost:8080/EcoLiftPool/rest/systemUser/update</URL><method>POST</method><ssl-hostname-verifier>STRICT</ssl-hostname-verifier><headers><header key="" value=""/></headers><body content-type="application/json" charset="UTF-8">{&#x0D;
+	"header": {sessionToken="64a0bba2-c8f6-44ef-9b9d-875070dbcbb4"},&#x0D;
+	"payload": {&#x0D;
+	"password":"3Hbp8MAAbo+RngxRXGbbujmC94U=",&#x0D;
+	"firstName":"DIGANT",&#x0D;
+	"lastName":"GROVER",&#x0D;
+	"gender":"MALE",&#x0D;
+	"email":"digant@gmail.com",&#x0D;
+	"mobile":"9762212221",&#x0D;
+	"profession":"Student of the year",&#x0D;
+	"organizationName":"DY PSP"&#x0D;
+	}&#x0D;
+}&#x0D;
+</body></request></rest-client>

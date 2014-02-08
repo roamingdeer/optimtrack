@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="2.5"><request><http-version>1.1</http-version><http-follow-redirects>true</http-follow-redirects><URL>http://localhost:8080/Optimize/rest/task/update</URL><method>POST</method><ssl-hostname-verifier>STRICT</ssl-hostname-verifier><headers><header key="" value=""/></headers><body content-type="application/json" charset="UTF-8">{&#x0D;
+	"header": {&#x0D;
+	"sessionToken":"ee8c2381-ccea-47e9-8694-6b437df65480"&#x0D;
+	},&#x0D;
+	&#x0D;
+	"payload": {   &#x0D;
+                        "taskInfo":{&#x0D;
+                            "id":1,&#x0D;
+                                    "status":"COMPLETED",&#x0D;
+                                    "fieldOperatorComment":"Test Comment",&#x0D;
+                                    "collectedAmount":1200&#x0D;
+                                    &#x0D;
+                            }&#x0D;
+                }&#x0D;
+}&#x0D;
+</body></request></rest-client>
